@@ -1,2 +1,2 @@
-# Simple_Sniffer
-An early version of a python sniffer
+# Lightweight_Sniffer
+A python sniffer that outputs the data into ML ready format (.csv)
